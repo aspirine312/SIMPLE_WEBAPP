@@ -1,6 +1,5 @@
 # 手寫辨識
 
-# 安裝
 * 建構模型訓練環境
 ```
 conda create -n env_name python=3.8
