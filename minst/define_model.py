@@ -39,4 +39,4 @@ class Net(nn.Module):
         x = self.dropout2(x)
         x = self.fc2(x)
 
-        return 
+        return x
